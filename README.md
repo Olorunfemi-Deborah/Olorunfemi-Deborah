@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Olorunfemi Deborah
 
-Welcome to my profile!
-
 I'm an **entry-level Data Analyst** with a background in **History** and a strong passion for using data to solve real business problems. I enjoy diving into messy datasets, cleaning them with tools like **Excel** and **Power Query**, and turning them into clear, actionable insights using **Power BI**, **SQL**, and **Python**.
 
 ---
@@ -31,7 +29,7 @@ I'm an **entry-level Data Analyst** with a background in **History** and a stron
 
 ## 📊 Projects
 - [Sales Data Dashboard](https://drive.google.com/file/d/1SWYYOHvsKnQ_A5Z9mzZD_y1O-h9tAQgD/view?usp=sharing): Cleaned raw sales data using Power Query and visualized key trends in Power BI  
-- [Retail Sales Analysis](#): Used SQL to extract insights from a retail dataset and built summary visuals  
+- [MajiNdogo Water Analysis](https://drive.google.com/file/d/1YzdRRxSdsb3Ux9VoW44PSlrktp4mVfXd/view?usp=sharing): Used Power BI to extract insights from a MajiNdogo dataset and built summary visuals  
 - [Excel Revenue Tracker](#): Created a dynamic revenue tracker with Excel formulas and charts  
 
 ---
@@ -43,7 +41,7 @@ I'm an **entry-level Data Analyst** with a background in **History** and a stron
 
 ## 📬 Get in Touch
 - 📧 Email: [your-email@example.com](olorunfemidebbie@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/deborah-olorunfemi-879419353)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/deborah-olorunfemi-879419353)  
 - 🐙 GitHub: [Your GitHub](https://github.com/Olorunfemi-Deborah)  
 
 ---
